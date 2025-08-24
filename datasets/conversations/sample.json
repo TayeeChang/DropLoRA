@@ -1,0 +1,8 @@
+[
+    {
+        "instruction": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nCompose an engaging travel blog post about a recent trip to Hawaii, highlighting cultural experiences and must-see attractions.\n\n### Response:",
+        "input": "",
+        "output": "Rewrite your previous response. Start every sentence with the letter A.",
+        "type": "mt_bench_writing_81"
+    }
+]
